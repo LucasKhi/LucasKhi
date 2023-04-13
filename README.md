@@ -22,7 +22,7 @@ I am a web developer with a solid background in PHP, HTML/CSS, and MVC-based fra
 - 🔭 I’m currently working on PHP, Angular.js, React, Vue.js, Javascript, etc 💻.
 - 🌱 I’m currently learning Full Stack Development 🚀.
 - 👯 I’m looking to collaborate on any Open Source Project involving Javascript / Elixir / Machine learning.
-- 📫 How to reach me: slucas.souza@protonmail.com | [LinkedIn](https://www.linkedin.com/in/slucas-souza/)  [Instagram](https://instagram.com/lucas.khi)
+- 📫 How to reach me: slucas.souza@protonmail.com | [LinkedIn](https://www.linkedin.com/in/slucas-souza/) | [Instagram](https://instagram.com/lucas.khi)
 - 💻 I have worked on Laravel, PHP, Vue, HTML/CSS, Javascript, React, Angular, MySQL, Git, Docker, etc.
 - 💬 Ask me about anything! I am happy to help and guide you.
 - ⚡ Fun fact: Equal is Not Always Equal in Javascript 🤣. Hire [me](mailto:slucas.souza@protonmail.com?Subject=Hello%20Lucas) 👨‍💻.
